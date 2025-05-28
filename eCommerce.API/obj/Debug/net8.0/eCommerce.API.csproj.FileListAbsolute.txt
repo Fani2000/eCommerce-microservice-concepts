@@ -30,3 +30,10 @@ C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.API\obj\Debug\net
 C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.API\obj\Debug\net8.0\eCommerce.API.pdb
 C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.API\obj\Debug\net8.0\eCommerce.API.genruntimeconfig.cache
 C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.API\obj\Debug\net8.0\ref\eCommerce.API.dll
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
