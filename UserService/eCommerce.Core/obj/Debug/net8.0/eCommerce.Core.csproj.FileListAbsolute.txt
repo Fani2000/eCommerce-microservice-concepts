@@ -10,3 +10,16 @@ C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.Core\obj\Debug\ne
 C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\refint\eCommerce.Core.dll
 C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.pdb
 C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\eCommerce.Core\obj\Debug\net8.0\ref\eCommerce.Core.dll
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.deps.json
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.dll
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.pdb
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.AssemblyReference.cache
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfoInputs.cache
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfo.cs
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.sourcelink.json
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.dll
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\obj\Debug\net8.0\refint\eCommerce.Core.dll
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.pdb
+C:\Users\keorapetse.fani\RiderProjects\eCommerce.API\UserService\eCommerce.Core\obj\Debug\net8.0\ref\eCommerce.Core.dll

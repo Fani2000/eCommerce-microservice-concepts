@@ -24,11 +24,28 @@ builder.Services.AddAutoMapper(typeof(LoginUserMappingProfile).Assembly);
 
 builder.Services.AddFluentValidationAutoValidation();
 
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+//Add cors services
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(corsPolicyBuilder => {
+        corsPolicyBuilder.WithOrigins("http://localhost:4200")
+            .AllowAnyMethod()
+            .AllowAnyHeader();
+    });
+});
+
 var app = builder.Build();
 
 app.UseExceptionHandlingMiddleware();
 
 app.UseRouting();
+app.UseSwagger();
+app.UseSwaggerUI();
+
+app.UseCors();
 
 app.UseAuthentication();
 app.UseAuthorization();
