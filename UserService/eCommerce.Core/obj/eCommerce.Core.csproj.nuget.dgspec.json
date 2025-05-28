@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keorapetse.fani\\RiderProjects\\eCommerce.API\\eCommerce.Core\\eCommerce.Core.csproj": {}
+    "C:\\Users\\keorapetse.fani\\RiderProjects\\eCommerce.API\\UserService\\eCommerce.Core\\eCommerce.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keorapetse.fani\\RiderProjects\\eCommerce.API\\eCommerce.Core\\eCommerce.Core.csproj": {
+    "C:\\Users\\keorapetse.fani\\RiderProjects\\eCommerce.API\\UserService\\eCommerce.Core\\eCommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keorapetse.fani\\RiderProjects\\eCommerce.API\\eCommerce.Core\\eCommerce.Core.csproj",
+        "projectUniqueName": "C:\\Users\\keorapetse.fani\\RiderProjects\\eCommerce.API\\UserService\\eCommerce.Core\\eCommerce.Core.csproj",
         "projectName": "eCommerce.Core",
-        "projectPath": "C:\\Users\\keorapetse.fani\\RiderProjects\\eCommerce.API\\eCommerce.Core\\eCommerce.Core.csproj",
+        "projectPath": "C:\\Users\\keorapetse.fani\\RiderProjects\\eCommerce.API\\UserService\\eCommerce.Core\\eCommerce.Core.csproj",
         "packagesPath": "C:\\Users\\keorapetse.fani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keorapetse.fani\\RiderProjects\\eCommerce.API\\eCommerce.Core\\obj\\",
+        "outputPath": "C:\\Users\\keorapetse.fani\\RiderProjects\\eCommerce.API\\UserService\\eCommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
