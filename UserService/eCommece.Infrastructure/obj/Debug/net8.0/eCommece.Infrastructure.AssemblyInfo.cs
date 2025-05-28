@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eCommece.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbcb1896afc62fce1fb87f7f5f9b50e74cabe67e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96d6d79c71d9289380843c3f64d51f9956fc60b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("eCommece.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eCommece.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
