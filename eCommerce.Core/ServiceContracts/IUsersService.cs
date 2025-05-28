@@ -12,7 +12,7 @@ public interface IUsersService
     /// </summary>
     /// <param name="loginRequest"></param>
     /// <returns></returns>
-    Task<AuthenticationResponse?> Login(LoginRequest loginRequest);
+    Task<AuthenticationResponse?> Login(LoginRequest? loginRequest);
 
 
     /// <summary>
@@ -20,5 +20,5 @@ public interface IUsersService
     /// </summary>
     /// <param name="registerRequest"></param>
     /// <returns></returns>
-    Task<AuthenticationResponse?> Register(RegisterRequest registerRequest);
+    Task<AuthenticationResponse?> Register(RegisterRequest? registerRequest);
 }

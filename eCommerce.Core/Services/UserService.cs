@@ -15,7 +15,7 @@ internal class UsersService : IUsersService
     }
 
 
-    public async Task<AuthenticationResponse?> Login(LoginRequest loginRequest)
+    public async Task<AuthenticationResponse?> Login(LoginRequest? loginRequest)
     {
         ApplicationUser? user = await _usersRepository.GetUserByEmailAndPassword(loginRequest.Email, loginRequest.Password);
 
@@ -28,7 +28,7 @@ internal class UsersService : IUsersService
     }
 
 
-    public async Task<AuthenticationResponse?> Register(RegisterRequest registerRequest)
+    public async Task<AuthenticationResponse?> Register(RegisterRequest? registerRequest)
     {
         //Create a new ApplicationUser object from RegisterRequest
         ApplicationUser user = new ApplicationUser()

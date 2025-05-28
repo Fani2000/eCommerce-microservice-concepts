@@ -10,15 +10,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32ecd70f-2117-4187-a3f0-8fe999453499" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/eCommerce.Core/ServiceContracts/IUsersService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eCommerce.API/Controllers/AuthController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.eCommerce.API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.eCommerce.API/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/obj/Debug/net8.0/eCommece.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/obj/Debug/net8.0/eCommece.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eCommerce.API/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eCommerce.API/obj/Debug/net8.0/eCommerce.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/obj/Debug/net8.0/eCommerce.API.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eCommerce.Core/ServiceContracts/IUsersService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.Core/ServiceContracts/IUsersService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eCommerce.Core/Services/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.Core/Services/UserService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.AssemblyInfo.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5aeb6167299d4cfba30c86624130edbcc90938/bf/1fdd4c15/ExceptionDispatchInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -30,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.eCommerce.API: http.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -140,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748448256735</updated>
-      <workItem from="1748448257969" duration="1471000" />
+      <workItem from="1748448257969" duration="2979000" />
     </task>
     <servers />
   </component>
