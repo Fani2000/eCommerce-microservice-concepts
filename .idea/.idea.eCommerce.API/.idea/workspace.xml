@@ -10,43 +10,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32ecd70f-2117-4187-a3f0-8fe999453499" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/eCommece.Infrastructure/DbContext/DapperDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce.Core/Mappers/ApplicationUserMappingProfile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce.Core/Mappers/LoginUserMappingProfile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce.Core/Mappers/RegisterUserMappingProfile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eCommerce.Core/Validators/LoginRequestValidator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eCommerce.Core/Validators/RegisterRequestValidator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.eCommerce.API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.eCommerce.API/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/DependencyInjection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/DependencyInjection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/Repository/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/Repository/UserRepository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/bin/Debug/net8.0/eCommece.Infrastructure.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/bin/Debug/net8.0/eCommece.Infrastructure.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/eCommece.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/eCommece.Infrastructure.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/obj/Debug/net8.0/eCommece.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/obj/Debug/net8.0/eCommece.Infrastructure.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/obj/eCommece.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/obj/eCommece.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/obj/eCommece.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/obj/eCommece.Infrastructure.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/obj/eCommece.Infrastructure.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/obj/eCommece.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommece.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/eCommece.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce.API/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce.API/bin/Debug/net8.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/bin/Debug/net8.0/appsettings.Development.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.API/bin/Debug/net8.0/eCommerce.API.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/bin/Debug/net8.0/eCommerce.API.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce.API/bin/Debug/net8.0/eCommerce.API.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/bin/Debug/net8.0/eCommerce.API.runtimeconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.API/eCommerce.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/eCommerce.API.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.API/obj/Debug/net8.0/eCommerce.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/obj/Debug/net8.0/eCommerce.API.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.API/obj/Debug/net8.0/eCommerce.API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/obj/Debug/net8.0/eCommerce.API.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.API/obj/eCommerce.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/obj/eCommerce.API.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce.API/obj/eCommerce.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/obj/eCommerce.API.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce.API/obj/eCommerce.API.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/obj/eCommerce.API.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.API/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.API/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce.Core/DTO/AuthenticationResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.Core/DTO/AuthenticationResponse.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce.Core/DTO/LoginRequest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.Core/DTO/LoginRequest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.Core/DTO/RegisterRequest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.Core/DTO/RegisterRequest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce.Core/Services/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.Core/Services/UserService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eCommerce.Core/DependencyInjection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.Core/DependencyInjection.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.Core/bin/Debug/net8.0/eCommerce.Core.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.Core/bin/Debug/net8.0/eCommerce.Core.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.Core/eCommerce.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.Core/eCommerce.Core.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce.Core/obj/Debug/net8.0/eCommerce.Core.AssemblyInfo.cs" afterDir="false" />
@@ -191,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748448256735</updated>
-      <workItem from="1748448257969" duration="6299000" />
+      <workItem from="1748448257969" duration="7153000" />
     </task>
     <servers />
   </component>
